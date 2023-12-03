@@ -1,3 +1,22 @@
+#About The App
+-Npx create react app admin-dashboard 
+-setup tailwindcss
+Steps of making UI
+1 - Make Table Column Title
+2 - Search Bar and Delete Button at Top
+3 - Filter the Data and show on UI
+4 - Fetch Data from API using useEffect
+5 - Apply Edit, Delete and Save Button each at Row
+6 - Apply pagination concept
+7 - Checkbox concept of Delete and Selected Row
+8 - Pagination at the end of right corner  
+9 - Selected row concept at right corner
+10- Editable option at each Row
+11- use useState for editing the each row apply map function to save it 
+12- Search and it return filter data based on searchtext
+13- deploy at netlify 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +87,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ -
